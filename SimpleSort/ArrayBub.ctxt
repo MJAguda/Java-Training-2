@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayBub
+comment1.params=max
+comment1.target=ArrayBub(int)
+comment2.params=value
+comment2.target=void\ insert(double)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ bubbleSort()
+comment5.params=one\ two
+comment5.target=void\ swap(int,\ int)
+numComments=6

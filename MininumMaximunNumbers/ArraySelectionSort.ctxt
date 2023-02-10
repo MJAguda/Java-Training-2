@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ArraySelectionSort
+comment1.params=max
+comment1.target=ArraySelectionSort(int)
+comment2.params=value
+comment2.target=void\ insert(double)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ displaymin()
+comment5.params=
+comment5.target=void\ displaymax()
+comment6.params=itemValue
+comment6.target=void\ search(double)
+comment7.params=
+comment7.target=void\ selectionSort()
+comment8.params=x\ y
+comment8.target=void\ swap(int,\ int)
+numComments=9
